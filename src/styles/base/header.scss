@@ -1,0 +1,16 @@
+.header {
+  background-color: $black;
+  padding: 3rem 1.5rem;
+
+  &__title {
+    color: $white;
+    line-height: 1.2;
+    margin: 0;
+    text-align: center;
+  }
+
+  &__link {
+    color: inherit;
+    text-decoration: none;
+  }
+}
